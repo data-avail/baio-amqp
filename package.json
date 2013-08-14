@@ -1,0 +1,14 @@
+{ "name": "baio-amqp"
+    , "description": "simple amqp client"
+    , "version": "0.0.1"
+    , "author": "Max Putilov <max.putilov@gmail.com>"
+    ,"keywords": [
+    "amqp, baio"
+]
+    , "engines": ["node >= 0.4.0"]
+    , "main": "./amqp.js"
+    , "dependencies": {
+    "async": "latest",
+    "amqp" : "latest"
+}
+}
